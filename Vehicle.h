@@ -20,7 +20,7 @@ public:
 	{
 	}
 
-	const std::string& const getName() const;
+	const std::string& getName() const;
 	const std::string& getFarbe() const;
 	const int& getPos() const;
 	const unsigned int& getHP() const;
